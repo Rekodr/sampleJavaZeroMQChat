@@ -1,0 +1,15 @@
+commands/ICommand.class
+commands/Broadcast.class
+commands/Exit.class
+server/PresenceService.class
+communication/MessageListener.class
+server/IPresenceService.class
+communication/BroadcastChannel.class
+communication/ProcessIncomingRequest.class
+client/RegistrationInfo.class
+commands/Friends.class
+client/Client.class
+commands/Available.class
+commands/Busy.class
+commands/Talk.class
+communication/MessageSender.class

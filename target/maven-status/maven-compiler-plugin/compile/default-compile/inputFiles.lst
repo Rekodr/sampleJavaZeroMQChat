@@ -1,0 +1,15 @@
+/Users/rekod/IdeaProjects/lab3/src/main/java/commands/Available.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/communication/MessageListener.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/communication/BroadcastChannel.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/server/IPresenceService.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/commands/Busy.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/commands/Exit.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/client/Client.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/communication/MessageSender.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/server/PresenceService.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/commands/ICommand.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/commands/Talk.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/commands/Friends.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/commands/Broadcast.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/client/RegistrationInfo.java
+/Users/rekod/IdeaProjects/lab3/src/main/java/communication/ProcessIncomingRequest.java
